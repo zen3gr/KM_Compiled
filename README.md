@@ -11,6 +11,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 Powershell v5 ή μεταγενέστερο
 AutoCAD 2007 ή μεταγενέστερο
+Express Tools @ AutoCAD
 ```
 
 ## Usage
